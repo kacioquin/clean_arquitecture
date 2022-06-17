@@ -1,0 +1,1 @@
+## Repositorio para treinamento aplicando Clean Architecture em uma API escrita em TypeScript
